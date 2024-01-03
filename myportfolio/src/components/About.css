@@ -1,0 +1,30 @@
+.contactbtn {
+    background: orange;
+    border: none;
+    color: black;
+    width: 400px;
+    border-radius: 10px;
+    height: 60px;
+    font-weight: bolder;
+}
+.contactbtn:hover{
+    border: 2px solid orange;
+    color: orange;
+    background: white;
+    transition: .4s;
+}
+
+.sk {
+    background: rgb(223, 223, 229);
+    color: rgb(25, 24, 24);
+    margin: 10px 10px;
+    padding: 5px 5px;
+    border-radius: 10px;
+}
+
+.sk:hover {
+    box-shadow: 10px 5px 5px rgb(131, 129, 129);
+    cursor: pointer;
+    opacity: .8;
+    transition: .4s ease;
+}

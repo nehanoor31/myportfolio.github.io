@@ -1,0 +1,31 @@
+ 
+.body {
+  background: url("./images/bg2.jpg");
+   height: 500px;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 10% 100%, 100% 10%, 100% 100%);
+ 
+}
+.abt {
+     margin-top: 180px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      
+ }
+
+ .mybtn {
+    background: orange;
+     border: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    color: black;
+    font-size: 11px;
+    font-weight: bolder;
+ }
+ .mybtn:hover {
+   border: 2px solid orange;
+   color: orange;
+   background: white;
+   transition: .4s;
+ }

@@ -1,0 +1,20 @@
+.logo {
+    border-radius: 50%;
+}
+
+.name {
+     font-family: Lucida Handwriting;
+     font-size: 30px;
+     color: rgb(11, 11, 11);
+     margin-top: auto;
+ }
+ .item {
+    font-size: 20px;
+    font-family:Lucida Console;
+    font-weight: bolder;
+ }
+ .mynav {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    margin-bottom: 20px;
+ }
+  

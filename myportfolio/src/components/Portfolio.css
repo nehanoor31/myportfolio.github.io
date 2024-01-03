@@ -1,0 +1,21 @@
+.pb {
+    position: relative;
+    align-items: center;
+}
+.pm {
+    border-radius: 20px;
+}
+
+.ptext {
+    position: absolute;
+    top: 40%;
+     font-family: Copperplate;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.pb:hover {
+    opacity: .7;
+    color: orange;
+    cursor: pointer;
+ }
